@@ -14,5 +14,6 @@ public class TC_WebDriverManager {
 	ChromeDriver cdriver1=new ChromeDriver();
 	WebDriverManager.edgedriver().setup();
 	EdgeDriver edriver1=new EdgeDriver();
+	System.out.println("Hii sandhya");
 	}}
 	
